@@ -1,0 +1,9 @@
+/Users/User/CLionProjects/testoop/build/Qt_6_7_0_for_macOS-Debug/CMakeFiles/testoop.dir
+/Users/User/CLionProjects/testoop/build/Qt_6_7_0_for_macOS-Debug/CMakeFiles/edit_cache.dir
+/Users/User/CLionProjects/testoop/build/Qt_6_7_0_for_macOS-Debug/CMakeFiles/rebuild_cache.dir
+/Users/User/CLionProjects/testoop/build/Qt_6_7_0_for_macOS-Debug/CMakeFiles/list_install_components.dir
+/Users/User/CLionProjects/testoop/build/Qt_6_7_0_for_macOS-Debug/CMakeFiles/install.dir
+/Users/User/CLionProjects/testoop/build/Qt_6_7_0_for_macOS-Debug/CMakeFiles/install/local.dir
+/Users/User/CLionProjects/testoop/build/Qt_6_7_0_for_macOS-Debug/CMakeFiles/install/strip.dir
+/Users/User/CLionProjects/testoop/build/Qt_6_7_0_for_macOS-Debug/CMakeFiles/testoop_autogen_timestamp_deps.dir
+/Users/User/CLionProjects/testoop/build/Qt_6_7_0_for_macOS-Debug/CMakeFiles/testoop_autogen.dir

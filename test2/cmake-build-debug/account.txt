@@ -1,0 +1,8 @@
+Savings Account
+Account Number: 1
+Balance: 20
+Interest Rate: 2
+Savings Account
+Account Number: 2
+Balance: 40
+Interest Rate: 2

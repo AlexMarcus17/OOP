@@ -1,0 +1,7 @@
+# ninja log v5
+1	322	1711560502703736898	CMakeFiles/test1.dir/Duration.cpp.o	fafe1dea6313b5e4
+1	323	1711560502703726856	CMakeFiles/test1.dir/TaskRepository.cpp.o	77c07984fdca5b36
+3	219	1711560541552668096	CMakeFiles/test1.dir/main.cpp.o	78307e3e81ddf37d
+4	224	1711560541558321882	CMakeFiles/test1.dir/Duration.cpp.o	fafe1dea6313b5e4
+4	225	1711560541557953963	CMakeFiles/test1.dir/TaskRepository.cpp.o	77c07984fdca5b36
+225	255	1711560541590452294	test1	d2c0a22c2c0193f8

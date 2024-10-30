@@ -1,0 +1,21 @@
+# ninja log v5
+1	184	1717602383737830030	testoop_autogen/timestamp	502e11cecdc3e55d
+1	184	1717602383737830030	testoop_autogen/mocs_compilation.cpp	502e11cecdc3e55d
+1	184	1717602383737830030	/Users/User/CLionProjects/testoop/build/Qt_6_7_0_for_macOS-Debug/testoop_autogen/timestamp	502e11cecdc3e55d
+1	184	1717602383737830030	/Users/User/CLionProjects/testoop/build/Qt_6_7_0_for_macOS-Debug/testoop_autogen/mocs_compilation.cpp	502e11cecdc3e55d
+184	957	1717602384512068603	CMakeFiles/testoop.dir/testoop_autogen/mocs_compilation.cpp.o	8327294ec0782b5f
+185	967	1717602384521524447	CMakeFiles/testoop.dir/main.cpp.o	80a58305f6c9f203
+6	29	1717602419648772208	testoop_autogen/timestamp	502e11cecdc3e55d
+6	29	1717602419648772208	testoop_autogen/mocs_compilation.cpp	502e11cecdc3e55d
+6	29	1717602419648772208	/Users/User/CLionProjects/testoop/build/Qt_6_7_0_for_macOS-Debug/testoop_autogen/timestamp	502e11cecdc3e55d
+6	29	1717602419648772208	/Users/User/CLionProjects/testoop/build/Qt_6_7_0_for_macOS-Debug/testoop_autogen/mocs_compilation.cpp	502e11cecdc3e55d
+5	27	1717602517548991076	testoop_autogen/timestamp	502e11cecdc3e55d
+5	27	1717602517548991076	testoop_autogen/mocs_compilation.cpp	502e11cecdc3e55d
+5	27	1717602517548991076	/Users/User/CLionProjects/testoop/build/Qt_6_7_0_for_macOS-Debug/testoop_autogen/timestamp	502e11cecdc3e55d
+5	27	1717602517548991076	/Users/User/CLionProjects/testoop/build/Qt_6_7_0_for_macOS-Debug/testoop_autogen/mocs_compilation.cpp	502e11cecdc3e55d
+29	699	1717602518216008222	CMakeFiles/testoop.dir/mainwindow.cpp.o	6c83025e6fb0aa0b
+699	829	1717602518347714242	testoop.app/Contents/MacOS/testoop	57a8fab6b1d6f97c
+7	27	1717602616485512012	testoop_autogen/timestamp	502e11cecdc3e55d
+7	27	1717602616485512012	testoop_autogen/mocs_compilation.cpp	502e11cecdc3e55d
+7	27	1717602616485512012	/Users/User/CLionProjects/testoop/build/Qt_6_7_0_for_macOS-Debug/testoop_autogen/timestamp	502e11cecdc3e55d
+7	27	1717602616485512012	/Users/User/CLionProjects/testoop/build/Qt_6_7_0_for_macOS-Debug/testoop_autogen/mocs_compilation.cpp	502e11cecdc3e55d
